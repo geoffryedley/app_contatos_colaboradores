@@ -18,7 +18,6 @@ Cadastro de Tickets;
 Calculo do Custo de Deslocamento; 
 Definição de Métricas para filtragem na Escolha de Recursos Técnicos; 
 
-## Projeto do Sistema 
 
 ## Referência
 
