@@ -4,8 +4,7 @@ Aplicativo criado para dar apoio ao ambiente do setor de serviços de TI e supri
 
 ## Ambiente Operacional 
 
-O FCDR é uma ferramenta Web desenvolvida nas linguagens Java Standard Edition (JSE), Java Script, HTML e CSS disponíveis para qualquer navegador ou dispositivo mobile compatível com o mesmo.
-
+O FCDR é uma ferramenta Web desenvolvida nas linguagens Java Standard Edition (JSE), Java Script, HTML e CSS disponíveis para qualquer navegador ou dispositivo mobile compatível com o mesmo
 ## Autores
 
 - [Geoffry E P Ribeiro](https://www.github.com/geoffryedley)
